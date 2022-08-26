@@ -1,0 +1,23 @@
+Projeto Git/GitHub
+
+- Instalar e configurar a aplicacação Git
+
+- Implementei a mesma aplicação em uma máquina rodando windows, UBUNTU Server e Rocky Linux (base Red Hat) 
+
+- Em referência ao Bootcamp Linux Experience
+
+- Realizado criação e upload dos arquivos ao repositorio github pelo Ubuntu Server.
+
+- Excelente introdução Dev nas aulas iniciais. 
+
+- Acredito que o conceito é a base de tudo.
+
+- E o modo como se aplica, o sistema utilizado ou a ferramenta só agreda. E poder exercitar em mais uma plataforma nos deixa versátil.
+
+- Denilson é sensacional, sem palavras segue o curso que já havia feito dele. E ainda utilizo como referencia, até para o dia a dia.
+
+Curso de Linux do Denilson Bonatti na Udemy. 
+
+Link Curso Denilson  Bonatti
+(link do curso UDEMY) https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/
+
