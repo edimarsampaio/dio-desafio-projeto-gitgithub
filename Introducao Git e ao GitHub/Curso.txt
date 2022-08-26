@@ -19,5 +19,5 @@ Projeto Git/GitHub
 Curso de Linux do Denilson Bonatti na Udemy. 
 
 Link Curso Denilson  Bonatti
-(link do curso UDEMY) https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/
 
+https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/
